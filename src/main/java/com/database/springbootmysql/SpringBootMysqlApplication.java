@@ -8,6 +8,7 @@ public class SpringBootMysqlApplication {
 
 	public static void main(String[] args) {
 		int  a =0;
+		int  b =0;
 		SpringApplication.run(SpringBootMysqlApplication.class, args);
 	}
 }
