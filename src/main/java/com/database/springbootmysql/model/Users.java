@@ -2,7 +2,7 @@ package com.database.springbootmysql.model;
 
 public class Users {
 	
-	
+	//Git status
 	private Integer id;
 	private String name;
 	private String teamname;
